@@ -1,0 +1,8 @@
+.carousel-custom{
+    width: 400px;
+}
+
+.carousel-flex-custom{
+    display: flex;
+    justify-content: center;
+}
